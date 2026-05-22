@@ -8,4 +8,4 @@ import datetime
 import streamlit as st
 
 d = st.date_input("When's your birthday", datetime.date(2007, 3, 4))
-st.write("Your birthday is:", bils)
+st.write("Your birthday is:", 4/maret/2007)
